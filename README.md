@@ -10,3 +10,9 @@
 
 3. 在你的 code 目录， pod install
 
+运行
+
+1. 运行 SocketMac
+
+2. 运行你的 code ，code 中 socket 的 log 会输出到 mac
+
