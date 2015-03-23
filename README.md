@@ -8,9 +8,10 @@
 
 2. 将 SocketDebuger 目录放在与你 code 同级目录
 
-3. 在你的 code 目录下，建立 
-pod ' SocketDebuger '，
-    ：path => ' ../SocketDebuger/SocketDebuger.podspec “
+3. 在你的 code 目录下，Podfile 文件中添加
+
+pod 'SocketDebuger',
+    :path => '../SocketDebuger/SocketDebuger.podspec'
 
 4. 在你的 code 目录， pod install
 
